@@ -1,5 +1,6 @@
 {
   "name": "backend",
+  "type": "module",
   "version": "1.0.0",
   "description": "Bu proyekt e-commerce backendi olacaq",
   "main": "app.js",
